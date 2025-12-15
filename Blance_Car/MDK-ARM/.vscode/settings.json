@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "main.h": "c",
+        "stm32f1xx_hal.h": "c",
+        "usart.h": "c",
+        "adc.h": "c",
+        "encoder.h": "c",
+        "tb6612.h": "c",
+        "tim.h": "c",
+        "mpu6050.h": "c",
+        "app_car.h": "c",
+        "kalman_filtering.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "math.h": "c"
+    }
+}
